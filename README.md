@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">An Aspiring Software Engineer with an Entrepreneurial mindset. Currently at Final year at NSUT, Delhi.</h3>
+<h3 align="center">An Aspiring Software Engineer with an Entrepreneurial mindset. Currently a Final year student at NSUT, Delhi.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-cowboy-computer-coding-w60pcikl6ieg525n.gif">
 
 
