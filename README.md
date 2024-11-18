@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kkr2810@gmail.com**
 
-- 📄 Know about my experiences [Resume/CV]([https://drive.google.com/file/d/1bP81cFLN188a9UOoCl-cbUmtu6HEPQLw/view?usp=sharing](https://drive.google.com/file/d/1QtTTrdE3IMWVn9sKUwJdzm-lKjoxk1pz/view?usp=sharing))
+- 📄 Know about my experiences [Resume/CV]([https://drive.google.com/file/d/1bP81cFLN188a9UOoCl-cbUmtu6HEPQLw/view?usp=sharing](https://drive.google.com/file/d/1QtTTrdE3IMWVn9sKUwJdzm-lKjoxk1pz/view?usp=sharing)])
 
 - ⚡ Fun fact **I think I'm funny :()**
 
